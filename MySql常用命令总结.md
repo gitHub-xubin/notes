@@ -1510,5 +1510,3 @@ mysql> update emp_bak set sal=sal*1.1 where (to_days(now()) - to_days(hiredate))
 Query OK, 14 rows affected (0.34 sec)
 Rows matched: 14  Changed: 14  Warnings: 0
 ```
-
-## 完结，欢迎大家指出错误，补充另外写法。喜欢的话点个Star，或Fork到自己仓库。
